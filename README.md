@@ -3,7 +3,7 @@ and its my first try
 so please dont expect alot this is a mini project at best, anyway lets get started
 
 so at first i disected the program into 6 code blocks 
-# 1st code block we mainly were setting the stone for the program by importing the abstractmethod library
+# 1st code block we mainly were setting the stone for the program by importing the abstract method library
 then we made the super class that we will inherite later on
 a few obejects  like rating, making the average of those said ratings
 
